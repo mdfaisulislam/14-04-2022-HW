@@ -1,0 +1,31 @@
+/*green*/
+body{
+    background: white;
+    color: green;
+    text-align: center;
+}
+div{
+    max-width: 365px;
+}
+.head{
+    border: solid;
+    margin: auto;
+}
+.store{
+    font-size: 50px;
+    border: solid 2px green;
+    border-collapse: collapse;
+    margin: auto;
+}
+.store-list{
+    border: solid 2px green;
+    border-collapse: collapse;
+}
+.store0{
+    transition-duration: 0.3s;
+}
+.store0:hover {
+    background-color: green;
+    color: white;
+}
+
